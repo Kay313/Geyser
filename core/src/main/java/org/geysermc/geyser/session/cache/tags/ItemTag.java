@@ -207,6 +207,7 @@ public final class ItemTag {
     public static final Tag<Item> ENCHANTABLE_MACE = create("enchantable/mace");
     public static final Tag<Item> MAP_INVISIBILITY_EQUIPMENT = create("map_invisibility_equipment");
     public static final Tag<Item> GAZE_DISGUISE_EQUIPMENT = create("gaze_disguise_equipment");
+    public static final Tag<Item> BUNDLES = create("bundles");
 
     private ItemTag() {}
 
